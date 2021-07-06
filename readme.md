@@ -1,6 +1,6 @@
 # treningsboka
 
-##Use case and promise
+## Use case and promise
 Keep track of local training programs with an easy-to-use approach.
 
 - Website is should have good keyboard support for easy to use.
@@ -8,7 +8,7 @@ Keep track of local training programs with an easy-to-use approach.
 - History for workouts and exercises
 - Blacked out ui with a good framework.
 
-##Tools
+## Tools
 Going to use:
 - JavaScript
 - MongoDB
